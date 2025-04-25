@@ -215,7 +215,7 @@
         <h2
           class="text-4xl md:text-6xl mt-20 font-khmer text-yellow-200 mb-5 md:mb-20"
         >
-          សូមអរគុណ
+          សូមអរគុណ!
         </h2>
 
         <!--
