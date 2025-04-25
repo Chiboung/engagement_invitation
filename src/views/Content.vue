@@ -86,10 +86,11 @@
         <h2 class="text-4xl md:text-6xl mt-20 font-khmer text-yellow-200">
           ពិធីភ្ជាប់ពាក្យ
         </h2>
+        <!--
         <div
           class="flex justify-between items-center mt-20 font-khmer text-yellow-200 text-2xl md:text-3xl md:w-1/2 mx-auto"
         >
-        <!--
+        
           <div>
             <div class="text-yellow-500 text-2xl md:text-3xl font-khmer-kh">
               ឪពុកម្តាយ
@@ -104,8 +105,9 @@
             <div>លោក ស្រ៊ុន ជីវ</div>
             <div>លោកស្រី សន​ ណៃស៊ីម​ </div>
           </div>
-          -->
+          
         </div>
+        -->
         <div  
           class="text-yellow-400 text-xl md:text-3xl font-khmer-kh mt-20 md:w-1/2 text-center mx-auto"
         >
