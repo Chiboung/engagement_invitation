@@ -46,7 +46,7 @@
         ថ្ងៃអាទិត្យ​ ទី២៧ ខែមេសា ឆ្នាំ២០២៥
       </div>
       <div class="text-yellow-500 text-xl md:text-3xl font-khmer-kh mt-10">
-        ជិត​សាលា BBU
+        បូរី Lucky , ផ្លូវក្រវ៉ាត់ក្រុង
       </div>
       <button
         class="flex justify-center items-center mt-10 font-khmer-kh text-yellow-500 border-2 border-yellow-500 px-4 py-2 rounded-full"
